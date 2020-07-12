@@ -1,2 +1,3 @@
 # PlantDiseaseProject
 Plant Disease Detection with CNN algorithm using keras
+We are using the dataset of plantdisease from dash dash dash ...
